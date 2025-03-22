@@ -1,0 +1,45 @@
+{
+    "kind": "webfonts#webfontList",
+    "items": [
+     {
+        "kind": "webfonts#webfont",
+        "family": "Roboto Mono",
+        "category": "monospace",
+        "variants": [
+            "100",
+            "100italic",
+            "300",
+            "300italic",
+            "regular",
+            "italic",
+            "500",
+            "500italic",
+            "700",
+            "700italic"
+        ],
+        "subsets": [
+            "latin",
+            "vietnamese",
+            "latin-ext",
+            "greek-ext",
+            "cyrillic",
+            "greek",
+            "cyrillic-ext"
+        ],
+        "version": "v5",
+        "lastModified": "2017-10-10",
+        "files": {
+            "100": "http://fonts.gstatic.com/s/robotomono/v5/L0x7DF4xlVMF-BfR8bXMIjAoq3o.ttf",
+            "100italic": "http://fonts.gstatic.com/s/robotomono/v5/L0xlDF4xlVMF-BfR8bXMIjhOkx6WXw.ttf",
+            "300": "http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjDgiVq2.ttf",
+            "300italic": "http://fonts.gstatic.com/s/robotomono/v5/L0xmDF4xlVMF-BfR8bXMIjhOk9a0f7o.ttf",
+            "regular": "http://fonts.gstatic.com/s/robotomono/v5/L0x5DF4xlVMF-BfR8bXMIghM.ttf",
+            "italic": "http://fonts.gstatic.com/s/robotomono/v5/L0x7DF4xlVMF-BfR8bXMIjhOq3o.ttf",
+            "500": "http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjC4iFq2.ttf",
+            "500italic": "http://fonts.gstatic.com/s/robotomono/v5/L0xmDF4xlVMF-BfR8bXMIjhOk461f7o.ttf",
+            "700": "http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjDwjlq2.ttf",
+            "700italic": "http://fonts.gstatic.com/s/robotomono/v5/L0xmDF4xlVMF-BfR8bXMIjhOk8azf7o.ttf"
+        }
+    }
+]
+}
